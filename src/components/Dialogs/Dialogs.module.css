@@ -5,9 +5,9 @@
 .dialogsItems {
   padding: 10px;
 }
-/* .dialogsItems:active {
-  color: blue;
-} */
+ .dialogsItems a:active {
+  color: rgb(60, 230, 125);
+} 
 .dialogsItems .dialog {
 }
 .messages {
